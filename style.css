@@ -1,0 +1,7 @@
+body{text-align: center;}
+#div1{background-color: lightblue;width: 100%;margin:0px;box-shadow: 10px 10px 10px black;}
+#div2{background-color: white; float:none;border-radius: 10px;box-shadow: 10px 10px 10px black;color:black;font-size: x-large;padding: 10px;}
+.label1{width: 45%;font-variant: small-caps;font-size: medium;}
+.accuracy,.object{font-size: 20px;font-variant: small-caps;box-shadow: 10px 10px 10px black;}
+#copyright_footer{z-index:9999;bottom:0;width: 100%;position: fixed;background-color: blue;font-size: 18px;color: white;font-variant: small-caps;}
+canvas{box-shadow: 10px 10px 10px black;margin-top: 170px;border: solid red;border-radius: 20px;margin-bottom: 100px;}
